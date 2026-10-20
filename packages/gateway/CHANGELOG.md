@@ -1,5 +1,11 @@
 # @ai-sdk/gateway
 
+## 2.0.170
+
+### Patch Changes
+
+- fd50c4d: Backport: chore(provider/gateway): update gateway model settings files
+
 ## 2.0.169
 
 ### Patch Changes
